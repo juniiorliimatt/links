@@ -5,12 +5,11 @@
 /* font-family: 'Archivo', sans-serif */
 
 :root {
-  --color-background: #fdfbe8;
-  --color-primary-lighter: #f3af55;
-  --color-primary-light: #f1e287;
-  --color-text-in-primary: #020202;
-  --color-text-base: #a12521;
-  --color-button-text: #000000;
+  --color-background: #b0e1fa;
+  --color-primary-lighter: #4bb3e7;
+  --color-primary-light: #41a1d1;
+  --color-text-in-primary: #ffffff;
+  --color-button-text: #fff;
 
   font-size: 60%;
 }
